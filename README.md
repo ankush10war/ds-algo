@@ -1,7 +1,7 @@
 # ds-algo
 
-http://blog.gainlo.co/index.php/category/coding-interview-questions
-https://www.careercup.com/page?pid=adobe-interview-questions 
+- http://blog.gainlo.co/index.php/category/coding-interview-questions
+- https://www.careercup.com/page?pid=adobe-interview-questions 
 
 1. Find subarray with given sum / zero / Largest Sum Contiguous Subarray
  - http://www.geeksforgeeks.org/find-subarray-with-given-sum-in-array-of-integers/
