@@ -210,7 +210,7 @@
     + Subset Sum Problem
     + Reverse words in a given string
     + Sort an array of 0s, 1s and 2s
-    + Minimum number of jumps
+    + Minimum number of jumps - ### DP / GOOD - https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
     + Check for BST
     + Root to leaf path sum
     + Sum Tree
