@@ -206,11 +206,11 @@
     + Determine if Two Trees are Identical
 
  - Adobe :
-    + Search in a Rotated Array
-    + Subset Sum Problem
+    + Search in a Rotated Array ### GOOD - https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+    + Subset Sum Problem ### DP / GOOD - https://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/
     + Reverse words in a given string
     + Sort an array of 0s, 1s and 2s
-    + Minimum number of jumps - ### DP / GOOD - https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
+    + Minimum number of jumps ### DP / GOOD - https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
     + Check for BST
     + Root to leaf path sum
     + Sum Tree
