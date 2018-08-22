@@ -69,6 +69,8 @@
  - http://blog.gainlo.co/index.php/2016/04/29/minimum-number-of-deletions-of-a-string/
  - http://www.geeksforgeeks.org/data-structure-dictionary-spell-checker/
  - http://www.geeksforgeeks.org/dynamic-programming-set-32-word-break-problem/
+ - https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014
+ - https://www.baeldung.com/trie-java
  - USAGE :: Dictionary + Prefix Search + Spell Check
 
 15. Maximum difference between two elements such that larger element appears after the smaller number
